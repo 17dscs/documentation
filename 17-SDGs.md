@@ -1,4 +1,4 @@
-# 17 SDGs
+# 17 SDGs(Sustainable Development Goals)
 
 ![https://i1.wp.com/www.un.org/sustainabledevelopment/wp-content/uploads/2018/05/E_SDG-goals_icons-individual-rgb-01.png?resize=148%2C148&ssl=1](https://i1.wp.com/www.un.org/sustainabledevelopment/wp-content/uploads/2018/05/E_SDG-goals_icons-individual-rgb-01.png?resize=148%2C148&ssl=1)
 
