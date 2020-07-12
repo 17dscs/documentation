@@ -2,11 +2,13 @@
 
 ## Daily Scrum
 
-[Daily scrum]()
+[Daily scrum form](https://github.com/17dscs/documentation/blob/master/dailyscrum/dailyscrum-form.md)
+
+- [7월 12일 일요일](https://github.com/17dscs/documentation/blob/master/dailyscrum/7-12-%EC%9D%BC.md)
 
 ## Plan
 
-- [draft]()
+- [draft](https://github.com/17dscs/documentation/blob/master/plan/draft.md)
 
 ## resource
 
