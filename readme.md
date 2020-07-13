@@ -4,13 +4,20 @@
 
 [Daily scrum form](https://github.com/17dscs/documentation/blob/master/dailyscrum/dailyscrum-form.md)
 
-- [7월 12일 일요일](https://github.com/17dscs/documentation/blob/master/dailyscrum/7-12-%EC%9D%BC.md)
+- [Jul 12, (sun)](https://github.com/17dscs/documentation/blob/master/dailyscrum/7-12.md)
+- [Jul 13, (mon)](https://github.com/17dscs/documentation/blob/master/dailyscrum/7-13.md)
 
 ## Plan
 
 - [draft](https://github.com/17dscs/documentation/blob/master/plan/draft.md)
 
-## resource
+## Ideation
+
+[Ideation form](https://github.com/17dscs/documentation/blob/master/ideation/ideation-form.md)
+
+1. [GOAL 4: QUALITY EDUCATION](https://github.com/17dscs/documentation/blob/master/ideation/4.md)
+
+## Resource
 
 1. [17 SDGs(Sustainable Development Goals)](https://github.com/17dscs/documentation/blob/master/17-SDGs.md)
 2. [17 colors](https://github.com/17dscs/documentation/blob/master/17-colors.md)
