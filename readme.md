@@ -21,6 +21,7 @@
 
 1. [17 SDGs(Sustainable Development Goals)](https://github.com/17dscs/documentation/blob/master/17-SDGs.md)
 2. [17 colors](https://github.com/17dscs/documentation/blob/master/17-colors.md)
+3. [Data Simulation](https://github.com/17dscs/documentation/blob/master/data-simulation.md)
 
 ```
 AngelHack seoul Challenges
