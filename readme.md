@@ -1,9 +1,21 @@
 # Index
 
+## sketch
+
+![]()
+
+## TODO
+
+1. 웹사이트 제작
+
+2. 컴포넌트 제작
+   - 모듈 환경세팅
+   - 데이터 시각화 뷰 제작
+   - 사용자 액션 뷰 제작
+
 ## Daily Scrum
 
-[Daily scrum form](https://github.com/17dscs/documentation/blob/master/dailyscrum/dailyscrum-form.md)
-
+- [Daily scrum form](https://github.com/17dscs/documentation/blob/master/dailyscrum/dailyscrum-form.md)
 - [Jul 12, (sun)](https://github.com/17dscs/documentation/blob/master/dailyscrum/7-12.md)
 - [Jul 13, (mon)](https://github.com/17dscs/documentation/blob/master/dailyscrum/7-13.md)
 
@@ -13,9 +25,8 @@
 
 ## Ideation
 
-[Ideation form](https://github.com/17dscs/documentation/blob/master/ideation/ideation-form.md)
-
-1. [GOAL 4: QUALITY EDUCATION](https://github.com/17dscs/documentation/blob/master/ideation/4.md)
+- [Ideation form](https://github.com/17dscs/documentation/blob/master/ideation/ideation-form.md)
+- [GOAL 4: QUALITY EDUCATION](https://github.com/17dscs/documentation/blob/master/ideation/4.md)
 
 ## Resource
 
