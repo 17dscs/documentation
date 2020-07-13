@@ -2,7 +2,7 @@
 
 ## sketch
 
-![]()
+![](https://github.com/17dscs/documentation/blob/master/images/sketch.png?raw=true)
 
 ## TODO
 
