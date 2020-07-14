@@ -1,5 +1,11 @@
 # Index
 
+## Website
+
+![](https://github.com/17dscs/documentation/blob/master/images/website.png?raw=true)
+
+<https://17dscs.github.io/website/>
+
 ## sketch
 
 ![](https://github.com/17dscs/documentation/blob/master/images/sketch.png?raw=true)
@@ -16,12 +22,6 @@
    - 모듈 환경세팅
    - 데이터 시각화 뷰 제작
    - 사용자 액션 뷰 제작
-
-## Daily Scrum
-
-- [Daily scrum form](https://github.com/17dscs/documentation/blob/master/dailyscrum/dailyscrum-form.md)
-- [Jul 12, (sun)](https://github.com/17dscs/documentation/blob/master/dailyscrum/7-12.md)
-- [Jul 13, (mon)](https://github.com/17dscs/documentation/blob/master/dailyscrum/7-13.md)
 
 ## Plan
 
