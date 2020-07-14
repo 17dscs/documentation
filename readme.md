@@ -6,7 +6,7 @@
 
 ## storyboard
 
-![](https://github.com/17dscs/documentation/blob/master/images/storyboard4.png?raw=true)
+![](https://github.com/17dscs/documentation/blob/master/images/storyboard4.png)
 
 ## TODO
 
