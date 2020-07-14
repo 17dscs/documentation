@@ -4,6 +4,10 @@
 
 ![](https://github.com/17dscs/documentation/blob/master/images/sketch.png?raw=true)
 
+## storyboard
+
+![]()
+
 ## TODO
 
 1. 웹사이트 제작
