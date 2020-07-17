@@ -16,6 +16,10 @@
 
 아이디어 : 온라인교육을 구름이라는 심볼로 표현 or 인터넷 이모지 🌐 or
 
+## screenshot
+
+![](https://github.com/17dscs/documentation/blob/master/images/dsc4-screenshot.png?raw=true)
+
 ## TODO
 
 1. 웹사이트 제작
