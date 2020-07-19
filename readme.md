@@ -20,6 +20,10 @@
 
 ![](https://github.com/17dscs/documentation/blob/master/images/dsc4-screenshot.png?raw=true)
 
+## screenshot2
+
+![](https://github.com/17dscs/documentation/blob/master/images/comp-screenshot.png?raw=true)
+
 ## TODO
 
 1. 웹사이트 제작
